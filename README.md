@@ -1,2 +1,4 @@
 # irods-reproduce-issue
-Misc scripts for reproducing issues in iRODS
+Scripts for reproducing iRODS issues in Vagrant environments
+
+These scripts are based on [Vagrant-iRODS](https://github.com/utrechtuniversity/vagrant-irods).
